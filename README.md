@@ -4,7 +4,7 @@ Aeon Switch and Aeon Dimmer Device handlers for Samsumg Smartthings home automat
 
 Devices and smartapps I've built for my use. I hope they will be useful for you. My Aeon in-wall switches and dimmers finally got usable and manageable.
 
-**AEON micro dimmer driver**
+**AEON micro Dimmer driver**
 
  Variation of the stock SmartThings "Dimmer-Switch" and twack's improved dimmer
  
@@ -12,19 +12,21 @@ Devices and smartapps I've built for my use. I hope they will be useful for you.
 	
 	--up/down dimmer tiles, with configurable interval rates
 
-**AEON micro switch driver**
+**AEON micro Switch driver**
 
   Variation of the stock SmartThings "Switch"
   
- 	--auto re-configure after setting preferences
+ 	--Auto re-configure after setting preferences
 	
- 	--alarm indicator capability (using AEON hardware blink function)
+ 	--Recommended settings: Param 80: **Hail**. Param 120: **Two State Switch**.
 
 **Remotec ZFM-80 device**
 
   Variation of the stock SmartThings Relay Switch
   
- 	--auto re-configure after setting preferences
+ 	--Auto re-configure after setting preferences
 	
- 	--preference settings for switch type and automatic shutoff features.
+ 	--Preference settings for switch type and automatic shutoff features.
+	
+	--Recommended settings: Param 80: **Hail**. Param 120: **Three State Switch**. Dimmer button offset: 1.
 
