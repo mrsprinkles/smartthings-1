@@ -8,17 +8,19 @@ Devices and smartapps I've built for my use. I hope they will be useful for you.
 
  Variation of the stock SmartThings "Dimmer-Switch" and twack's improved dimmer
  
-	--auto re-configure after setting preferences
+	--Auto re-configure after setting preferences
 	
-	--up/down dimmer tiles, with configurable interval rates
-
+	--Up/down dimmer tiles, with configurable interval rates
+	
+ 	--Recommended settings: Param 80: **Hail**. Param 120: **Two State Switch**.
+	
 **AEON micro Switch driver**
 
   Variation of the stock SmartThings "Switch"
   
  	--Auto re-configure after setting preferences
 	
- 	--Recommended settings: Param 80: **Hail**. Param 120: **Two State Switch**.
+ 	--Recommended settings: Param 80: **Hail**. Param 120: **Three State Switch**. Dimmer button offset: 1.
 
 **Remotec ZFM-80 device**
 
@@ -28,5 +30,3 @@ Devices and smartapps I've built for my use. I hope they will be useful for you.
 	
  	--Preference settings for switch type and automatic shutoff features.
 	
-	--Recommended settings: Param 80: **Hail**. Param 120: **Three State Switch**. Dimmer button offset: 1.
-
