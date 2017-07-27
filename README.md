@@ -12,7 +12,7 @@ Devices and smartapps I've built for my use. I hope they will be useful for you.
 	
 	--Up/down dimmer tiles, with configurable interval rates
 	
- 	--Recommended settings: Param 80: **Hail**. Param 120: **Two State Switch**.
+ 	--Recommended settings: Param 80: **Hail**. Param 120: **Three State Switch**. Dimmer button offset: 1.
 	
 **AEON micro Switch driver**
 
@@ -20,7 +20,10 @@ Devices and smartapps I've built for my use. I hope they will be useful for you.
   
  	--Auto re-configure after setting preferences
 	
- 	--Recommended settings: Param 80: **Hail**. Param 120: **Three State Switch**. Dimmer button offset: 1.
+ 	--Recommended settings: Param 80: **Hail**. Param 120: **Two State Switch**.
+
+Aeon Switch Settings Screenshot (from Smartthings android app):
+![Aeon Switch recommended settings](https://github.com/northam/smartthings/blob/master/Aeon%20Switch%20recommended%20settings.png  "Aeon Switch recommended settings")
 
 **Remotec ZFM-80 device**
 
